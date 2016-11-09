@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Phu Ha
+twitter_username: vinhphu3000
+name: Phu Ha
 
 # Build settings
 markdown: kramdown
@@ -10,11 +10,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://phuha.net/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/vinhphu3000
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: http://stackoverflow.com/users/877209/vinhphu3000
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
@@ -89,9 +89,9 @@ github:
  - robhinds/AndroidRssReader
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+   #profileurl: http://stackoverflow.com/users/258813/rhinds
+   #flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 apps:
