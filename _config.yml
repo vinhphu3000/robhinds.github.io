@@ -35,16 +35,26 @@ roles:
    end: Now
    employer: PYCO Group - Pyramid Consulting Vietnam
    description: Project Manager, Technical Manager, Operation Manager
- - title: Senior Software Developer
-   start: 2008
-   end: 2011
-   employer: CSC Vietnam, FPTPromo, a subsidairy of FPT Corp.
-   description: 
- - title: Software Developer
-   start: 2003
-   end: 2008
-   employer: CSC Vietnam (BakBone lately acquired by QUEST then DELL)
-   description: 
+ - title: Project Manager
+   start: Nov 2011
+   end: Sep 2014
+   employer: Harvey Nash Vietnam
+   description: Project Manager, Resource Manager, Bid Manager
+ - title: Business Development Manager
+   start: Oct 2010
+   end: Nov 2011
+   employer: FPT Promo
+   description: Partnership Manager, Account Manager, Digital Project Manager
+ - title: Principal Software Engineer
+   start: Apr 2005
+   end: Oct 2010
+   employer: CSC Vietnam
+   description: Software Developer, Technical Lead, Acting Project Manager
+ - title: Software Developer at various companies
+   start: Sep 2003
+   end: Apr 2005
+   employer: SGC - an Internet Company; Sutrix Media http://sutrixgroup.com/
+   description: Software Developer
 
 #Education is required
 education:
@@ -52,3 +62,11 @@ education:
    date: 2003
    subject: Information System
    school: University of Natural Science
+ - level: Professional Scrum Master™
+   date: 2015
+   subject: 
+   school: 
+ - level: PMP Candidate
+   date: 2013
+   subject: 
+   school: PMI
