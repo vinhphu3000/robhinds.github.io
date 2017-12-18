@@ -33,35 +33,31 @@ roles:
  - title: Senior Technical Project Manager
    start: Sep 2014
    end: Now
-   employer: PYCO Group - Pyramid Consulting Vietnam
+   employer: <a href="https://www.pycogroup.com/home">PYCO Group - Pyramid Consulting Vietnam</a>
    description: Project Manager, Technical Manager, Operation Manager
  - title: Project Manager
    start: Nov 2011
    end: Sep 2014
-   employer: Harvey Nash Vietnam
+   employer: <a href="http://www.harveynash.com/vn/">Harvey Nash Vietnam</a>
    description: Project Manager, Resource Manager, Bid Manager
  - title: Business Development Manager
    start: Oct 2010
    end: Nov 2011
-   employer: FPT Promo
+   employer: FPT Promo (later acquired by <a href="https://www.fpt-software.com/">FPT Software</a>)
    description: Partnership Manager, Account Manager, Digital Project Manager
  - title: Principal Software Engineer
    start: Apr 2005
    end: Oct 2010
-   employer: CSC Vietnam
+   employer: CSC Vietnam (later merged into HP became <a href="http://www.dxc.technology/vn_vn">DXC</a>)
    description: Software Developer, Technical Lead, Acting Project Manager
  - title: Software Developer at various companies
    start: Sep 2003
    end: Apr 2005
-   employer: SGC - an Internet Company; Sutrix Media http://sutrixgroup.com/
+   employer: <a href="http://raovat.net">SGC - an Internet Company</a>; <a href="http://sutrixgroup.com/">Sutrix Media</a>
    description: Software Developer
 
 #Education is required
 education:
- - level: Bachelor of Science
-   date: 2003
-   subject: Information System
-   school: University of Natural Science
  - level: Professional Scrum Master™
    date: 2015
    subject: 
@@ -70,3 +66,7 @@ education:
    date: 2013
    subject: 
    school: PMI
+ - level: Bachelor of Science
+   date: 2003
+   subject: Information System
+   school: University of Natural Science
